@@ -1,4 +1,7 @@
-### Hi there 👋
+### Pietro Here 👋
+
+Specialized on mobile development.
+Artist on free time.
 
 <!--
 **pietroid/pietroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
