@@ -1,23 +1,27 @@
 html,
 body {
-    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Inter', sans-serif;
     background-color: #1c1d1d;
     color: #FFF;
 }
 
 h1 {
-    font-family: 'Nunito Sans', sans-serif;
-    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
     font-size: 50pt;
+    align-self: center;
+    margin: 6pt;
 }
 
 h2 {
-    font-weight: 200;
-    font-size: 22pt;
+    font-weight: 300;
+    font-size: 25pt;
+    color: #6C6C6C;
+    align-self: center;
+    margin: 3pt;
 }
 
 p {
-    margin: 16pt;
     font-weight: 200;
     font-size: 15pt;
     color: #9c9c9c;
@@ -26,9 +30,17 @@ p {
 .header {
     margin: 80pt;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
+    align-self: center;
+}
+
+.naming {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 60pt;
 }
 
 .content{
@@ -57,6 +69,19 @@ hr.solid {
 
 #image {
     border-radius: 50%;
-    margin-right: 50pt;
-    width: 130pt;
+    width: 200pt;
+}
+
+.items {
+    display: flex;
+    flex-direction: row;
+}
+
+a {
+    font-weight: 300;
+    font-size: 20pt;
+    color: #bbbbbb;
+    width:180pt;
+    text-align: center;
+    text-decoration: none; 
 }
