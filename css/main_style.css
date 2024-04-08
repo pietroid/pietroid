@@ -67,9 +67,29 @@ hr.solid {
     justify-content: center;
 }
 
-#image {
+
+#image-container {
+    position: relative;
+    width: 250px;
+    height: 250px;
+}
+      
+#outer-border, #image {
+    position: absolute;
     border-radius: 50%;
-    width: 200pt;
+}
+
+#outer-border {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(#613400, #2d055b); /* Outer circle color */
+}
+
+#image {
+    width: 95%; 
+    height: 95%; 
+    top: 2.5%; 
+    left: 2.5%; 
 }
 
 .items {
