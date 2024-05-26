@@ -1,7 +1,10 @@
-### Pietro Here 👋
+### pietroid
 
-Specialized on mobile development.
-Artist on free time.
+- Pietro Teruya Domingues
+- Mobile developer
+- Engineer
+- I solve people's problems
+- Technology is a form of art
 
 <!--
 **pietroid/pietroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
