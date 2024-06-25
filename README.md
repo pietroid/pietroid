@@ -3,7 +3,7 @@
 _Welcome to my lab of ideas. This repo is intended to be constantly evolving, like an organism.
 Like life, sometimes it seems just like a blob. However, I see it as the web of my thoughts._
 
-# Me in a few topics
+# 💻 Me in a few topics
 
 - Pietro Teruya Domingues
 - Mobile developer
@@ -12,7 +12,7 @@ Like life, sometimes it seems just like a blob. However, I see it as the web of 
 - I solve people's problems
 - Technology is a form of art
 
-# My top projects
+# 🥇 My top projects
 
 _Criteria: innovation, experimentation, learned something new._
 
