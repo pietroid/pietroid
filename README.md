@@ -2,7 +2,7 @@
 
 # ⚙️ Career
 
-_I have been working as Mobile Software Engineer for the past 4 years._ <br/>
+_I have been working as Mobile Software Engineer for the past 7 years._ <br/>
 _Currently working with Flutter._ <br/>
 _Mechatronics Engineer._ <br/>
 
