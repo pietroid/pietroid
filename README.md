@@ -17,7 +17,6 @@ _Mechatronics Engineer._ <br/>
 ![OS](https://img.shields.io/badge/React%20Native-informational?logo=react&color=36a128&logoColor=white)
 ![OS](https://img.shields.io/badge/Node.js-informational?logo=node.js&color=36a128&logoColor=white)
 ![OS](https://img.shields.io/badge/Typescript-informational?logo=typescript&color=36a128&logoColor=white)
-![OS](https://img.shields.io/badge/GraphQL-informational?logo=typescript&color=133b0e&logoColor=white)
 ![OS](https://img.shields.io/badge/GraphQL-informational?logo=graphql&color=133b0e&logoColor=white)
 ![OS](https://img.shields.io/badge/MongoDB-informational?logo=mongodb&color=133b0e&logoColor=white)
 <br/>
