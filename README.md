@@ -3,6 +3,8 @@
 _Welcome to my lab of ideas. This repo is intended to be constantly evolving, like an organism.
 Like life, sometimes it seems just like a blob. However, I see it as the web of my thoughts._
 
+<br/>
+
 # 💻 Me in a few topics
 
 - Pietro Teruya Domingues
@@ -11,6 +13,7 @@ Like life, sometimes it seems just like a blob. However, I see it as the web of 
 - Artist
 - I solve people's problems
 - Technology is a form of art
+<br/>
 
 # 🥇 My top projects
 
