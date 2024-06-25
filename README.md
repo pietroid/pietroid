@@ -18,8 +18,6 @@
 ![OS](https://img.shields.io/badge/GraphQL-informational?logo=typescript&color=133b0e&logoColor=white)
 ![OS](https://img.shields.io/badge/GraphQL-informational?logo=graphql&color=133b0e&logoColor=white)
 ![OS](https://img.shields.io/badge/MongoDB-informational?logo=mongodb&color=133b0e&logoColor=white)
-![OS](https://img.shields.io/badge/StyledComponents-informational?color=133b0e&logoColor=white)
-![OS](https://img.shields.io/badge/Redux-informational?color=133b0e&logoColor=white)
 <br/>
 ![OS](https://img.shields.io/badge/2019-informational?color=2f5499) 
 ![OS](https://img.shields.io/badge/@Indigo%20Labs-1%20Year-informational?color=2f5499&labelColor=6b4009) 
