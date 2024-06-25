@@ -46,8 +46,8 @@ We say we don't usually have favorite childs, but I indeed like the 🥇 a lot.
 
 ![OS](https://img.shields.io/badge/Flutter-informational?logo=flutter&color=purple) 
 * **[Cron](https://github.com/pietroid/cron):** A task management system with tasks like spotify 🥇
+* **[Goethe Reading App](https://github.com/pietroid/goethe-reading-app):** App to read Johann Wolfgang von Goethe's poems both in german and english. 🥇
 * **[Money Tracker](https://github.com/pietroid/money_tracker):** Extremely simple money tracking solution
-* **[Goethe Reading App](https://github.com/pietroid/goethe-reading-app):** App to read Johann Wolfgang von Goethe's poems both in german and english.
 * **[Alert App](https://github.com/pietroid/alert_app):** An app intended to call and alert my wife inside my house.
 * **[Yournal](https://github.com/pietroid/yournal-flutter):** A feed reader concept.
 
