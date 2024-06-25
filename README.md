@@ -1,4 +1,5 @@
-# (π) pietroid
+![Group 1 (2)](https://github.com/pietroid/pietroid/assets/22605271/517f75d4-8efe-4bea-95d0-aa5de46d3103)
+
 
 _Welcome to my lab of ideas. This repo is intended to be constantly evolving, like an organism.
 Like life, sometimes it seems just like a blob. However, I see it as the web of my thoughts._
