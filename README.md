@@ -1,6 +1,10 @@
 ![Group 1 (2)](https://github.com/pietroid/pietroid/assets/22605271/517f75d4-8efe-4bea-95d0-aa5de46d3103)
 
-# ⚙️ Companies & Tech
+# ⚙️ Career
+
+_I have been working as Mobile Software Engineer for the past 4 years._ <br/>
+_Currently working with Flutter._ <br/>
+_Mechatronics Engineer._ <br/>
 
 ![OS](https://img.shields.io/badge/2022-informational?color=2f5499) ![OS](https://img.shields.io/badge/@QuintoAndar-2+%20Year-informational?labelColor=e88707) 
 ![OS](https://img.shields.io/badge/Flutter-informational?logo=flutter&color=36a128&logoColor=white) 
@@ -36,34 +40,37 @@
 ![OS](https://img.shields.io/badge/Unity-informational?logo=unity&color=133b0e&logoColor=white)
 
 
-# 🏭 Projects
+# 🏭 My personal projects
 
-- Cron: Time management app
-- 
-- Synkronos
-
-# Me
-
-- Pietro Teruya Domingues
-- Mobile developer
-- Engineer
-- Artist
-- I solve people's problems
-- Technology is a form of art
+_My repo is a constantly evolving soup of ideas and creations._
 <br/>
+We say we don't usually have favorite childs, but I indeed like the 🥇 a lot.
 
-# 🧪 Cool projects
+![OS](https://img.shields.io/badge/Flutter-informational?logo=flutter&color=purple) 
+* **Cron:** A task management system with tasks like spotify 🥇
+* **Money tracker:** Extremely simple money tracking solution
+* **Goethe Reading App:** App to read Johann Wolfgang von Goethe's poems both in german and english.
+* **Alert App:** An app intended to call and alert my wife inside my house.
+* **Yournal:** A feed reader concept.
 
-_Criteria: innovation, experimentation, learned something new._
+![OS](https://img.shields.io/badge/Javascript-informational?logo=javascript&color=purple) ![OS](https://img.shields.io/badge/p5.js-informational?logo=p5.js&color=purple) 
+* **Synkronos:** A set of generative art experimentations that may sync with human soul. 🥇
+* **RD Automation:** Tooling I created when using React Native to setup environments of BFF and app and also re-run builds and giving alerts.
+* **Nutritional representation:** A simple way to visualize properties of food (carbs, fats and proteins).
 
-| **Title** | **Description** | **⚙️ Tech** |  **🤓 What I've learned** | **🚀 Results**  |
-|---|---|---|---|---|
-|  Cron  |  Time management app  |  <img src="https://github.com/pietroid/pietroid/assets/22605271/b4ed128b-15a2-4256-8781-cc93ccb0eb8f" width="100"/> |  Created a custom state management strategy, like redux |  Tasks are like spotify music |
-|  Synkronos  |  Expressing art in many different ways  |  p5.js  |  Used webGL and math to create geometric shapes  |   Immersive animations   |
-|  Economic simulation |  Simulation of a capitalistic economy  |  python |  Created a framework to run economic agents and exchanges  |  A basic working society modeled inside computer  |
+![OS](https://img.shields.io/badge/Python-informational?logo=python&color=purple) 
+* **Economic simulation:** A framework to simulate capitalistic economies, with economic agents and commodities. 🥇
+* **Main Brain:** Emulating human behaviors using LLMs with lots of different "personalities" interacting with each other.
+* **Life Simulator:** Simulator of cellular behavior.
+* **
 
+# 🧑🏾 Me
 
-_Welcome to my lab of ideas. This repo is intended to be constantly evolving, like an organism.
-Like life, sometimes it seems just like a blob. However, I see it as the web of my thoughts._
-[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+* 🎨 Artist on freetime.
+* 📚 Avid reader.
+* 🎹 I like to play music (keyboard and guitar).
+* 🧘🏾‍♂️ Yoga practioner.
+* 🏐 Volleyball athlete.
+* 🐱 I love 5 cats.
+
 
