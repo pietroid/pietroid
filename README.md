@@ -1,6 +1,6 @@
 ![Group 1 (2)](https://github.com/pietroid/pietroid/assets/22605271/517f75d4-8efe-4bea-95d0-aa5de46d3103)
 
-_I have been working as Software Engineer for the past 7 years._ <br/>
+_I have been working as Software Engineer for the past 5 years._ <br/>
 _Currently working with Flutter._ <br/>
 _Mechatronics Engineer._ <br/>
 
