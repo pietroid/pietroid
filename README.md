@@ -4,7 +4,7 @@ _I have been working as Software Engineer for the past 7 years._ <br/>
 _Currently working with Flutter._ <br/>
 _Mechatronics Engineer._ <br/>
 
-![OS](https://img.shields.io/badge/2022-informational?color=2f5499) ![OS](https://img.shields.io/badge/@QuintoAndar-2+%20Years-informational?labelColor=e88707) 
+![OS](https://img.shields.io/badge/2021-informational?color=2f5499) ![OS](https://img.shields.io/badge/@QuintoAndar-3+%20Years-informational?labelColor=e88707) 
 ![OS](https://img.shields.io/badge/Flutter-informational?logo=flutter&color=36a128&logoColor=white) 
 ![OS](https://img.shields.io/badge/Swift-informational?logo=swift&color=133b0e&logoColor=white) 
 ![OS](https://img.shields.io/badge/Firebase-informational?logo=firebase&color=133b0e&logoColor=white) 
