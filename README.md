@@ -1,13 +1,11 @@
 # About me
 
-⚙️ Mechatronics Engineer, working as Software Engineer.
-
-💙 In love with Flutter and Mobile Development. Currently expressing this love at [Very Good Ventures](https://verygood.ventures/).
-
-🌹 Lucky husband & Tutor of 5 cats.
-
+⚙️ Mechatronics Engineer, working as Software Engineer.<br/>
+💙 In love with Flutter and Mobile Development. Currently expressing this love at [Very Good Ventures](https://verygood.ventures/).<br/>
+🌹 Lucky husband & Tutor of 5 cats.<br/>
 🌟 Reader of random books, sometimes artist, writer, piano & guitar player, cook and researcher of counsciousness (yoga & meditation).
 
+See my official blog: [Pietroid](https://pietroid.github.io/)
 
 ![OS](https://img.shields.io/badge/2025-informational?color=2f5499) ![OS](https://img.shields.io/badge/@VeryGoodVentures-0.5%20Years-informational?labelColor=e88707) 
 <br/>
