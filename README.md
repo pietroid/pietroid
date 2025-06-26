@@ -1,9 +1,16 @@
-![Group 1 (2)](https://github.com/pietroid/pietroid/assets/22605271/517f75d4-8efe-4bea-95d0-aa5de46d3103)
+# About me
 
-_I have been working as Software Engineer for the past 5 years._ <br/>
-_Currently working with Flutter._ <br/>
-_Mechatronics Engineer._ <br/>
+⚙️ Mechatronics Engineer, working as Software Engineer.
 
+💙 In love with Flutter and Mobile Development. Currently expressing this love at [Very Good Ventures](https://verygood.ventures/).
+
+🌹 Lucky husband & Tutor of 5 cats.
+
+🌟 Reader of random books, sometimes artist, writer, piano & guitar player, cook and researcher of counsciousness (yoga & meditation).
+
+
+![OS](https://img.shields.io/badge/2025-informational?color=2f5499) ![OS](https://img.shields.io/badge/@VeryGoodVentures-0.5%20Years-informational?labelColor=e88707) 
+<br/>
 ![OS](https://img.shields.io/badge/2021-informational?color=2f5499) ![OS](https://img.shields.io/badge/@QuintoAndar-3+%20Years-informational?labelColor=e88707) 
 ![OS](https://img.shields.io/badge/Flutter-informational?logo=flutter&color=36a128&logoColor=white) 
 ![OS](https://img.shields.io/badge/Swift-informational?logo=swift&color=133b0e&logoColor=white) 
@@ -60,14 +67,4 @@ We say we don't usually have favorite childs, but I indeed like the 🥇 a lot.
 * **[Main Brain](https://github.com/pietroid/mainbrain):** Emulating human behaviors using LLMs with lots of different "personalities" interacting with each other.
 * **[Life simulator](https://github.com/pietroid/life-simulator):** Simulator of cellular behavior.
 * **
-
-# 🧑🏾 Me
-
-* 🎨 Artist on freetime.
-* 📚 Avid reader.
-* 🎹 I like to play music (keyboard and guitar).
-* 🧘🏾‍♂️ Yoga practioner.
-* 🏐 Volleyball athlete.
-* 🐱 I love 5 cats.
-
 
