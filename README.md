@@ -1,47 +1,11 @@
 # About me
 
 ⚙️ Mechatronics Engineer, working as Software Engineer.<br/>
-💙 In love with Flutter and Mobile Development. Currently expressing this love at [Very Good Ventures](https://verygood.ventures/).<br/>
+💙 In love with Flutter and Mobile Development
 🌹 Lucky husband & Tutor of 5 cats.<br/>
 🌟 Reader of random books, sometimes artist, writer, piano & guitar player, cook and researcher of counsciousness (yoga & meditation).
 
 See my official blog: [Pietroid](https://pietroid.github.io/)
-
-![OS](https://img.shields.io/badge/2025-informational?color=2f5499) ![OS](https://img.shields.io/badge/@VeryGoodVentures-0.5%20Years-informational?labelColor=e88707) 
-<br/>
-![OS](https://img.shields.io/badge/2021-informational?color=2f5499) ![OS](https://img.shields.io/badge/@QuintoAndar-3+%20Years-informational?labelColor=e88707) 
-![OS](https://img.shields.io/badge/Flutter-informational?logo=flutter&color=36a128&logoColor=white) 
-![OS](https://img.shields.io/badge/Swift-informational?logo=swift&color=133b0e&logoColor=white) 
-![OS](https://img.shields.io/badge/Firebase-informational?logo=firebase&color=133b0e&logoColor=white) 
-![OS](https://img.shields.io/badge/Flutter%20Bloc-informational?color=133b0e&logoColor=white) 
-![OS](https://img.shields.io/badge/Google%20Maps-informational?color=133b0e&logoColor=white) 
-![OS](https://img.shields.io/badge/FCM-informational?color=133b0e&logoColor=white)
-<br/>
-![OS](https://img.shields.io/badge/2020-informational?color=2f5499)
-![OS](https://img.shields.io/badge/@RaiaDrogasil-1%20Year-informational?color=2f5499&labelColor=6b4009)
-![OS](https://img.shields.io/badge/React%20Native-informational?logo=react&color=36a128&logoColor=white)
-![OS](https://img.shields.io/badge/Node.js-informational?logo=node.js&color=36a128&logoColor=white)
-![OS](https://img.shields.io/badge/Typescript-informational?logo=typescript&color=36a128&logoColor=white)
-![OS](https://img.shields.io/badge/GraphQL-informational?logo=graphql&color=133b0e&logoColor=white)
-![OS](https://img.shields.io/badge/MongoDB-informational?logo=mongodb&color=133b0e&logoColor=white)
-<br/>
-![OS](https://img.shields.io/badge/2019-informational?color=2f5499) 
-![OS](https://img.shields.io/badge/@Indigo%20Labs-1%20Year-informational?color=2f5499&labelColor=6b4009) 
-![OS](https://img.shields.io/badge/Android-informational?logo=android&color=36a128&logoColor=white)
-![OS](https://img.shields.io/badge/Node.js-informational?logo=node.js&color=133b0e&logoColor=white)
-![OS](https://img.shields.io/badge/EC2-informational?logo=amazon-ec2&color=133b0e&logoColor=white)
-![OS](https://img.shields.io/badge/MySQL-informational?logo=mysql&color=133b0e&logoColor=white)
-<br/>
-![OS](https://img.shields.io/badge/2014-informational?color=2f5499) 
-![OS](https://img.shields.io/badge/@Mechatronics%20Engineering%20Degree-5%20Years-informational?color=2f5499&labelColor=6b4009) 
-![OS](https://img.shields.io/badge/Android-informational?logo=android&color=133b0e&logoColor=white)
-![OS](https://img.shields.io/badge/Arduino-informational?logo=arduino&color=133b0e&logoColor=white)
-![OS](https://img.shields.io/badge/Python-informational?logo=python&color=133b0e&logoColor=white)
-![OS](https://img.shields.io/badge/Embedded%20C-informational?logo=C&color=133b0e&logoColor=white)
-![OS](https://img.shields.io/badge/Assembly-informational?logo=assembly&color=133b0e&logoColor=white)
-![OS](https://img.shields.io/badge/Unity-informational?logo=unity&color=133b0e&logoColor=white)
-
-
 # 🏭 My personal projects
 
 _My repo is a constantly evolving soup of ideas and creations._
